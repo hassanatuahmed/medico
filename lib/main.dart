@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:medico/pages/homepage.dart';
+import 'package:medico/pages/welcome.dart';
 
 void main() {
   runApp( MyApp());

@@ -49,8 +49,8 @@ class _SignupPageState extends State<SignupPage> {
             icon: Icons.email,
           ),
         ),
-        Center(
-          child: const Text("Already have an account Sign in"),
+        const Center(
+          child:  Text("Already have an account Sign in"),
         ),
           ],
         ),
