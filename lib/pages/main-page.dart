@@ -46,50 +46,50 @@ class _MainPageState extends State<MainPage> {
           ),
            BottomNavigationBarItem(
             icon: Icon(
-                Icons.motorcycle,
+                Icons.calendar_today,
                 color: Colors.grey,
             ),
-            label: ('Loan'),
+            label: ('Appointment'),
             activeIcon: Icon(
-                Icons.motorcycle,
+                Icons.calendar_today,
                 color: Colors.red,
             ),
           ),
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.donut_small,
+              Icons.favorite,
               color: Colors.grey,
-              size: 25,
+             
             ),
-            label: ('Banking'),
+            label: ('Health'),
             activeIcon: Icon(
-              Icons.usb,
+              Icons.favorite,
               color: Colors.red,
-              size: 30,
+              
             ),
           ),
            BottomNavigationBarItem(
             icon: Icon(
-                Icons.motorcycle,
+                Icons.medication_outlined,
                 color: Colors.grey,
             ),
-            label: ('Loan'),
+            label: ('Medication'),
             activeIcon: Icon(
-                Icons.motorcycle,
+                Icons.medication_outlined,
                 color: Colors.red,
             ),
           ),
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.donut_small,
+              Icons.verified_user_sharp,
               color: Colors.grey,
-              size: 25,
+              
             ),
-            label: ('Banking'),
+            label: ('Profile'),
             activeIcon: Icon(
-              Icons.usb,
+              Icons.verified_user_sharp,
               color: Colors.red,
-              size: 30,
+              
             ),
           ),
           
